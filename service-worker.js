@@ -30,6 +30,7 @@ var urlsToCache = [
     "/img/icons/favicon-32x32.png",
     "/img/banner/skema-pwa.png",
     "/img/banner/loading.png",
+    "/img/banner//thumbnail.png",
     "/icon.png",
     "/img/banner/banner.svg",
     "/img/banner/pwa_doc.svg",
